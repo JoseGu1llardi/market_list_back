@@ -9,5 +9,4 @@ class AppmarketlistApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
